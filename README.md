@@ -4,7 +4,7 @@
 
 ## Overview  
 
-This project demonstrates a **Two-Tier architecture on AWS** using **Terraform** for Infrastructure as Code (IaC). It follows a modular and security-enhanced approach to create a **scalable, secure, and maintainable** infrastructure.  
+This project demonstrates a **Two-Tier architecture on AWS** using **Terraform** for Infrastructure as Code (IaC). It follows a modular and security-enhanced approach to create a **scalable, secure, and maintainable** infrastructure
 
 ### Key Features  
 
@@ -61,6 +61,3 @@ terraform destroy -var-file=variables.tfvars --auto-approve
 **Amazon Route 53** – Scalable domain name system (DNS)  
 **Amazon CloudFront (CDN)** – Faster content delivery worldwide  
 **SSL/TLS Encryption** – Secure communication with ACM
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
